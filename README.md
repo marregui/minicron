@@ -1,5 +1,3 @@
 # minicron
 
 CRON scheduler
-
-
