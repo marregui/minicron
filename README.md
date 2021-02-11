@@ -1,3 +1,3 @@
 # minicron
 
-CRON scheduler yes
+CRON scheduler yes abd i
