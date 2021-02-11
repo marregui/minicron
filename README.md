@@ -1,3 +1,3 @@
 # minicron
 
-CRON scheduler from a branch    that
+CRON scheduler from a branch
